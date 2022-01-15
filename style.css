@@ -1,0 +1,27 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    background-color: antiquewhite;
+}
+button{
+
+    margin-top: 30px;
+    margin-left: 33%;
+    height: 40px;
+    width:190px;
+    cursor: pointer;
+    font-size: larger;
+    border-top-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+.box{
+    width:500px;
+    height:400px;
+    background-color: aquamarine;
+    margin:auto;
+    border-width: 2px;
+    border-color: black;
+
+}

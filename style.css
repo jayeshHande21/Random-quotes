@@ -19,9 +19,24 @@ button{
 .box{
     width:500px;
     height:400px;
-    background-color: aquamarine;
+    background-color: rgb(139, 156, 151);
     margin:auto;
-    border-width: 2px;
-    border-color: black;
+    border-radius: 1rem;
+    margin-top: 50px;
 
+}
+#id{
+    font-size: 90px;
+    color: azure;
+    margin-left: 20px;
+    
+}
+#output{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:whitesmoke;
+    word-spacing: 1px;
+    line-height: 25px;
+    padding: 2rem;
+    margin-top: 0px;
+    
 }

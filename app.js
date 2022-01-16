@@ -2,6 +2,8 @@ const button = document.querySelector("#btn");
 
 const output = document.querySelector("#output");
 
+const author = document.querySelector("#auther");
+
 const quotes = [
     {
       quote:
@@ -37,11 +39,10 @@ const quotes = [
 
 function generateQuates(){
 
-    let index = Math.floor(Math.random() * quotes.lenght);
-    console.log(index);
-    // output.textContent = quotes[index].quote;
+    let index = Math.floor(Math.random()*quotes.length);
+    output.innerText = quotes[index].quote; 
 
-  
+    author.innerText = quotes[index].author
 
 }
 

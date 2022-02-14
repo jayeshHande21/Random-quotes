@@ -3,7 +3,7 @@
     margin:0px;
 }
 body{
-    background-color: rgb(148, 145, 141);
+    background-color: rgb(238, 189, 125);
 }
 button{
 
@@ -19,11 +19,12 @@ button{
 .box{
     width:500px;
     height:400px;
-    background-color: rgb(139, 156, 151);
+    background-color: rgb(240, 207, 158);
     margin:auto;
     border-radius: 1rem;
     margin-top: 50px;
-    border-width: 2px;
+    border:2px solid black;
+    
 
 }
 #id{

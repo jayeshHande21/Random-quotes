@@ -1,51 +1,45 @@
-*{
-    padding:0px;
-    margin:0px;
+* {
+  padding: 0px;
+  margin: 0px;
 }
-body{
-    background-color: rgb(238, 189, 125);
+body {
+  background-color: rgb(238, 189, 125);
 }
-button{
-
-    margin-top: 30px;
-    margin-left: 33%;
-    height: 40px;
-    width:190px;
-    cursor: pointer;
-    font-size: larger;
-    border-top-left-radius: 0.5rem;
-    border-bottom-right-radius: 0.5rem;
+button {
+  margin-top: 30px;
+  margin-left: 33%;
+  height: 40px;
+  width: 190px;
+  cursor: pointer;
+  font-size: larger;
+  border-top-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
 }
-.box{
-    width:500px;
-    height:400px;
-    background-color: rgb(240, 207, 158);
-    margin:auto;
-    border-radius: 1rem;
-    margin-top: 50px;
-    box-shadow: 10px 5px 10px 10px rgb(110, 97, 97);
-    
-
+.box {
+  width: 500px;
+  height: 400px;
+  background-color: rgb(240, 207, 158);
+  margin: auto;
+  border-radius: 1rem;
+  margin-top: 50px;
+  box-shadow: 10px 5px 10px 10px rgb(110, 97, 97);
 }
-#id{
-    font-size: 90px;
-    color: azure;
-    margin-left: 10px;
-    
+#id {
+  font-size: 90px;
+  color: azure;
+  margin-left: 10px;
 }
-#output{
-   
-    color:rgb(0, 0, 0);
-    word-spacing: 1px;
-    line-height: 25px;
-    padding: 2rem;
-    margin-left: 23px;
-    margin-top: 0px;
-    font-size: 20px;
-    font-family: 'Source Sans Pro', sans-serif;
-    
+#output {
+  color: rgb(0, 0, 0);
+  word-spacing: 1px;
+  line-height: 25px;
+  padding: 2rem;
+  margin-left: 23px;
+  margin-top: 0px;
+  font-size: 20px;
+  font-family: "Source Sans Pro", sans-serif;
 }
-#auther{
-    float:right;
-    margin-right:16px;
+#auther {
+  float: right;
+  margin-right: 16px;
 }
